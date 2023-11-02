@@ -9,7 +9,7 @@ function getuserdetails(name:string,email:string,ispaid:boolean){
 }
 getuserdetails("jignesh","jignesh@gmail.com",false)
 
-const  getsamsh = (name:string,email:string): string=>{
+const  getsamsh = (name:string,email:boolean): string | boolean=>{
     return " "
 }
 export{} 
