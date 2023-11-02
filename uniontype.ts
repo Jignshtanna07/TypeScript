@@ -19,7 +19,8 @@ let userOne : User | Admin = {
     name :"Jignesh Tanna",
     id:53
 }
+console.log(userOne)
 //   for example of pi this is new in typescript
-    let pi:3.14 = 3.14
-    pi=145
+    let pi:3.14 = 3.14 //type is 3.14
+    // pi=145 
 export {}
